@@ -1,3 +1,5 @@
+"""Código desenvolvido para obtenção de progresso na plataforma DIO, no 
+curso Formação Python Developer."""
 cad_usuario = {
     'idUsuario': [],
     'cpf': [],

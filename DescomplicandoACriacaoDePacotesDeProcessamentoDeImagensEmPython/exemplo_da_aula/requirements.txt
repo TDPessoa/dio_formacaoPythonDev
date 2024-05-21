@@ -1,0 +1,3 @@
+scykit_image
+numpy
+matplotlib
